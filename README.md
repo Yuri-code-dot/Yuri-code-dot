@@ -69,9 +69,8 @@ const yuri = {
 
 <div align="center">
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-YuRiVeRTi-FFD21E?style=for-the-badge&logoColor=black)
 
-](https://huggingface.co/YuRiVeRTi)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-YuRiVeRTi-FFD21E?style=for-the-badge&logoColor=black)
 [![Reddit](https://img.shields.io/badge/Reddit-YuRiVERTical-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/YuRiVERTical)
 [![Email](https://img.shields.io/badge/Email-bakisora@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakisora@gmail.com)
 
