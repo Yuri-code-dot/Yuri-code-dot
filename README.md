@@ -46,6 +46,7 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yuri-code-dot&theme=tokyonight&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-code-dot&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
