@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="160" viewBox="0 0 854 160">
+  <defs>
+    <!-- Deep space background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0015"/>
+      <stop offset="40%" style="stop-color:#1a0030"/>
+      <stop offset="70%" style="stop-color:#12001f"/>
+      <stop offset="100%" style="stop-color:#0a0010"/>
+    </linearGradient>
+
+    <!-- Glow for moon -->
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#e8c4ff;stop-opacity:0.35"/>
+      <stop offset="100%" style="stop-color:#9b59b6;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Soft purple nebula left -->
+    <radialGradient id="nebula1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#6a0dad;stop-opacity:0.18"/>
+      <stop offset="100%" style="stop-color:#2d0057;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Soft nebula right -->
+    <radialGradient id="nebula2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#9b30ff;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#1a0030;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Text glow filter -->
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow filter -->
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Moon crescent clip -->
+    <clipPath id="moonClip">
+      <circle cx="762" cy="52" r="28"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="854" height="160" fill="url(#bg)" rx="10"/>
+
+  <!-- Nebula blobs -->
+  <ellipse cx="160" cy="80" rx="200" ry="100" fill="url(#nebula1)"/>
+  <ellipse cx="680" cy="80" rx="220" ry="110" fill="url(#nebula2)"/>
+
+  <!-- Stars scattered -->
+  <circle cx="42" cy="18" r="1" fill="#e8d5ff" opacity="0.9"/>
+  <circle cx="110" cy="9" r="0.8" fill="#ffffff" opacity="0.7"/>
+  <circle cx="200" cy="25" r="1.2" fill="#d4a8ff" opacity="0.85"/>
+  <circle cx="310" cy="12" r="0.7" fill="#ffffff" opacity="0.6"/>
+  <circle cx="390" cy="30" r="1" fill="#e8d5ff" opacity="0.75"/>
+  <circle cx="470" cy="8" r="1.3" fill="#ffffff" opacity="0.8"/>
+  <circle cx="555" cy="22" r="0.9" fill="#d4a8ff" opacity="0.7"/>
+  <circle cx="630" cy="14" r="1" fill="#ffffff" opacity="0.65"/>
+  <circle cx="720" cy="28" r="0.8" fill="#e8d5ff" opacity="0.8"/>
+  <circle cx="810" cy="10" r="1.1" fill="#ffffff" opacity="0.7"/>
+  <circle cx="840" cy="35" r="0.7" fill="#d4a8ff" opacity="0.6"/>
+  <circle cx="75" cy="140" r="0.9" fill="#e8d5ff" opacity="0.5"/>
+  <circle cx="155" cy="148" r="0.7" fill="#ffffff" opacity="0.55"/>
+  <circle cx="250" cy="135" r="1" fill="#d4a8ff" opacity="0.45"/>
+  <circle cx="500" cy="145" r="0.8" fill="#ffffff" opacity="0.5"/>
+  <circle cx="600" cy="138" r="1.1" fill="#e8d5ff" opacity="0.55"/>
+  <circle cx="800" cy="150" r="0.9" fill="#ffffff" opacity="0.5"/>
+  <circle cx="28" cy="80" r="0.8" fill="#d4a8ff" opacity="0.6"/>
+  <circle cx="830" cy="95" r="1" fill="#e8d5ff" opacity="0.55"/>
+
+  <!-- Tiny sparkle stars (4-point) -->
+  <g opacity="0.7" fill="#f0d9ff">
+    <path d="M335 20 L336.2 23 L339.5 24 L336.2 25 L335 28 L333.8 25 L330.5 24 L333.8 23 Z" transform="scale(0.6) translate(224 9)"/>
+    <path d="M335 20 L336.2 23 L339.5 24 L336.2 25 L335 28 L333.8 25 L330.5 24 L333.8 23 Z" transform="scale(0.5) translate(930 220)"/>
+  </g>
+
+  <!-- Moon glow halo -->
+  <circle cx="762" cy="52" r="50" fill="url(#moonGlow)"/>
+
+  <!-- Moon body -->
+  <circle cx="762" cy="52" r="28" fill="#f5e6ff" filter="url(#softGlow)" opacity="0.95"/>
+
+  <!-- Crescent shadow to make it a crescent moon -->
+  <circle cx="772" cy="47" r="24" fill="#0d0015" clip-path="url(#moonClip)"/>
+
+  <!-- Subtle moon texture dots -->
+  <circle cx="748" cy="58" r="2" fill="#d4a8ff" opacity="0.3"/>
+  <circle cx="753" cy="45" r="1.5" fill="#c890ff" opacity="0.25"/>
+  <circle cx="745" cy="48" r="1" fill="#d4a8ff" opacity="0.2"/>
+
+  <!-- Horizontal divider line (faint) -->
+  <line x1="60" y1="108" x2="794" y2="108" stroke="#6a0dad" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Main title: yuri -->
+  <text
+    x="100"
+    y="78"
+    font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif"
+    font-size="58"
+    font-weight="400"
+    letter-spacing="18"
+    fill="#e8c4ff"
+    filter="url(#textGlow)"
+    opacity="0.97"
+  >yuri</text>
+
+  <!-- Subtitle -->
+  <text
+    x="102"
+    y="130"
+    font-family="'Courier New', Courier, monospace"
+    font-size="13"
+    letter-spacing="6"
+    fill="#9b59b6"
+    opacity="0.85"
+  >✦  building from the shadows  ✦</text>
+
+</svg>
