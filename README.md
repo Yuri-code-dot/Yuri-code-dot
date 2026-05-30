@@ -135,7 +135,7 @@ const yuri = {
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-code-dot&layout=compact&theme=tokyonight&hide_border=true&title_color=B57BFF&text_color=D4A8FF&icon_color=9B30FF)
+![Top Languages](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css&theme=dark)
 
 
 
