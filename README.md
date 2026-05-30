@@ -127,12 +127,19 @@ const yuri = {
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Yuri-code-dot&theme=tokyonight&hide_border=true&ring=B57BFF&fire=9B30FF&currStreakLabel=B57BFF)
+
+
+![Shogun Streak](https://shogun-cyan.vercel.app/api/streak?user=Yuri-code-dot)
+
+
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-code-dot&layout=compact&theme=tokyonight&hide_border=true&title_color=B57BFF&text_color=D4A8FF&icon_color=9B30FF)
 
-</div>
 
+
+</div>
 ---
 
 ## 📡 Find Me
