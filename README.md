@@ -1,167 +1,303 @@
-<div align="left">
+<div align="left">""Fire Counter" (https://fire-counter.vercel.app/api/counter/Yuri-code-dot)" (https://fire-counter.vercel.app)
 
-[![Fire Counter](https://fire-counter.vercel.app/api/counter/Yuri-code-dot)](https://fire-counter.vercel.app)
+</div><div align="center">"banner" (./banner.svg)
 
-</div>
+</div><br><div align="center">> boot yuri.exe
 
-<div align="center">
-
-![banner](./banner.svg)
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-> boot yuri.exe
 Initializing...
-[ OK ] AI Agents
-[ OK ] Mobile Dev — Termux Mode
+
+[ OK ] AI Systems
+[ OK ] TXB™
+[ OK ] TensoraMax Studio™
+[ OK ] Mobile Development
 [ OK ] Chaos Engine
-[ OK ] Flame Counter — GOD FLAME 🔱
 [ OK ] One phone. One dream.
 
 Welcome, traveler.
-```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B57BFF&center=true&vCenter=true&width=500&lines=AI+Agent+Developer;Building+from+a+phone;Groq+%2B+React+%2B+Node.js;One+phone.+One+dream.)](https://github.com/Yuri-code-dot)
+Building AI, Software, and Creative Technology
 
-</div>
+</div>---
 
----
-
-```
 [ NAVIGATION ]
 
-[1] Player Stats    → #player-stats
-[2] Quest Log       → #quest-log
-[3] Skill Tree      → #skill-tree
-[4] Live Stats      → #live-stats
-[5] Find Me         → #find-me
-```
-
-**[→ Player Stats](#-player-stats) · [→ Quest Log](#-quest-log) · [→ Skill Tree](#-skill-tree) · [→ Live Stats](#-live-stats) · [→ Find Me](#-find-me)**
+[1] Player Stats
+[2] Quest Log
+[3] Skill Tree
+[4] Repositories
+[5] Studio Roadmap
+[6] Live Stats
+[7] Find Me
 
 ---
 
-## 👾 Player Stats
+👾 Player Stats
 
-```ts
 const yuri = {
-  name:      "Yuri / Baki",
-  class:     "AI Agent Developer",
-  device:    "Potato Phone (Ascended) 📱",
-  location:  "India → Tokyo (someday)",
-  flame:     "GOD FLAME 🔱",
-  setup:     "Termux only. No laptop. No excuses.",
-  goal:      "Ship something that matters."
+  name: "Yuri / Baki Sora",
+  role: "Founder",
+  studio: "TensoraMax Studio™",
+  class: "AI Developer",
+  device: "Phone-Only Builder",
+  setup: "Termux + Cloud + Determination",
+  currentProject: "TXB™",
+  mission: "Build. Learn. Experiment.",
+  goal: "Create technology that matters."
 }
-```
 
-| Stat | Level |
-|------|-------|
-| 🔥 Flame Rank | GOD FLAME 🔱 |
-| 🧠 AI Agent Rank | Autonomous |
-| 📱 Device | Potato Phone (Ascended) |
-| ⚙️ Builder Mode | Chaos Engine — Active |
-| 🗾 Final Boss | Tokyo |
+Stat| Value
+Role| Founder
+Studio| TensoraMax Studio™
+Current Project| TXB™
+Device| Phone-Only Development
+Builder Mode| Active
+Current Mission| Build. Learn. Experiment.
 
 ---
 
-## 📜 Quest Log
+📜 Quest Log
 
-```
 [ QUEST LOG ]
-```
 
-**[✓] COMPLETED — fire-counter**
-> Animated visitor badge service. 9 flame tiers. Ghost Flame → GOD FLAME.
-> Reward: GOD FLAME unlocked 🔱
-> Stack: `JavaScript · Upstash · Vercel`
+[✓] COMPLETED — TXB™
 
-**[⚔] ACTIVE — Tensora Bot**
-> Autonomous AI agent. Unfiltered. Chaotic. Warm underneath.
-> Status: Deployed on Railway. Still evolving.
-> Stack: `JavaScript · Groq`
+Official AI Assistant developed by TensoraMax Studio™.
 
-**[⚔] ACTIVE — Groq Coding Agent**
-> AI coding agent powered by Groq API.
-> Status: Online.
-> Stack: `TypeScript`
+Status:
 
-**[⏳] IN PROGRESS — Tensoragram**
-> Unknown entity. Danger level: classified.
-> Stack: `HTML`
+- Public Release v0.1
+- Groq Integration Complete
+- Llama 3.3 Connected
+- GitHub Repository Published
 
-**[📖] LORE — mobile-dev-env**
-> The sacred setup. Built a full dev environment on a phone.
-> For those who refuse to wait for a laptop.
+Stack:
+
+Python · Groq · Llama
 
 ---
 
-## 🌲 Skill Tree
+[✓] COMPLETED — fire-counter
 
-<div align="center">
+Animated visitor badge service.
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,git&theme=dark)](https://skillicons.dev)
+Features:
 
-</div>
+- Dynamic flame ranking
+- Visitor tracking
+- Public deployment
 
-```
-[ UNLOCKED SKILLS ]
+Stack:
 
-[✓] JavaScript     ████████████ MAX
-[✓] TypeScript     █████████░░░ LVL 9
-[✓] React          ██████████░░ LVL 10
-[✓] Node.js        ██████████░░ LVL 10
-[✓] Python         ███████░░░░░ LVL 7
-[✓] Groq / Gemini  █████████░░░ LVL 9
-[✓] Termux Wizard  ████████████ MAX
-```
+JavaScript · Upstash · Vercel
 
 ---
 
-## 📊 Live Stats
+[⚔] ACTIVE — Tensora Bot
 
-<div align="center">
+Autonomous AI Agent.
 
+Status:
 
+Online
 
-![Shogun Streak](https://shogun-cyan.vercel.app/api/streak?user=Yuri-code-dot)
+Stack:
 
-
-
-
-
-![Top Languages](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css&theme=dark)
-
-
-
-</div>
----
-
-## 📡 Find Me
-
-<div align="center">
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-YuRiVeRTi-7C3AED?style=for-the-badge&logoColor=white)
-[![Reddit](https://img.shields.io/badge/Reddit-YuRiVERTical-6D28D9?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/YuRiVERTical)
-[![Email](https://img.shields.io/badge/Email-bakisora@gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bakisora@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-yurivertical-6D28D9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yurivertical)
-
-</div>
+JavaScript · Groq
 
 ---
 
-<div align="center">
+[⏳] IN PROGRESS — Tensoragram
 
-```
-Log Entry #01:
-"Still building from a phone. Still no excuses."
-```
+Experimental social platform concept.
 
-*one phone. one dream.* 🌙
+Status:
+
+Research Phase
+
+---
+
+[🏛] BUILDING — TensoraMax Studio™
+
+Independent technology initiative focused on:
+
+- Artificial Intelligence
+- Software Development
+- Automation
+- Creative Technology
+- Experimental Projects
+
+---
+
+🌲 Skill Tree
+
+<div align="center">""Skills" (https://skillicons.dev/icons?i=js,ts,react,nodejs,express,python,html,css,git&theme=dark)" (https://skillicons.dev)
+
+</div>[ UNLOCKED SKILLS ]
+
+JavaScript     ████████████ MAX
+TypeScript     █████████░░░ LVL 9
+React          ██████████░░ LVL 10
+Node.js        ██████████░░ LVL 10
+Python         ███████░░░░░ LVL 7
+Groq / Gemini  █████████░░░ LVL 9
+Termux Wizard  ████████████ MAX
+
+---
+
+📦 Repositories
+
+🤖 TXB™
+
+Official AI Assistant developed by TensoraMax Studio™.
+
+Status: Active Development
+Version: v0.1
+Stack: Python · Groq · Llama
+
+---
+
+🔥 fire-counter
+
+Dynamic visitor counter with flame progression.
+
+Status: Released
+Stack: JavaScript · Upstash · Vercel
+
+---
+
+⚔ Tensora Bot
+
+Autonomous AI agent project.
+
+Status: Active Development
+Stack: JavaScript · Groq
+
+---
+
+🌌 Tensoragram
+
+Experimental social platform concept.
+
+Status: Research Phase
+Stack: HTML
+
+---
+
+🏛 TensoraMax Studio™
+
+Technology ecosystem currently under development.
+
+Mission: Build. Learn. Experiment.
+
+---
+
+🏛 TensoraMax Studio™
+
+TensoraMax Studio™
+│
+├── TXB™
+├── Tensora Bot
+├── Tensoragram
+├── Future AI Systems
+├── Software Tools
+├── Automation Projects
+└── Creative Technology
+
+---
+
+🛣 Studio Roadmap
+
+Phase 1 — Foundation
+
+Completed:
+
+- Studio Branding
+- GitHub Presence
+- TXB™ Release
+- Documentation
+
+---
+
+Phase 2 — Intelligence Systems
+
+In Progress:
+
+- TXB™ Memory Architecture
+- Knowledge Systems
+- Better Prompt Engineering
+- Agent Research
+
+---
+
+Phase 3 — Ecosystem Development
+
+Planned:
+
+- Studio Integrations
+- Shared Infrastructure
+- Project Connectivity
+
+---
+
+Phase 4 — Expansion
+
+Planned:
+
+- Software Tools
+- Automation Systems
+- Creative Technology
+- Research Projects
+
+---
+
+📊 Live Stats
+
+Current Environment:
+
+Phone + Cloud Infrastructure
+
+Current Focus:
+
+Artificial Intelligence
+Open Source
+Software Development
+
+---
+
+📡 Find Me
+
+<div align="center">Hugging Face: YuRiVeRTi
+
+Reddit: YuRiVERTical
+
+Instagram: yurivertical
+
+GitHub: Yuri-code-dot
+
+</div>---
+
+📖 Philosophy
+
+Small projects become large systems.
+
+Every project starts with a single idea,
+a single file,
+and the willingness to build.
+
+---
+
+⚡ Motto
+
+Build.
+Learn.
+Experiment.
+
+---
+
+<div align="center">TensoraMax Studio™
+
+TXB™
+
+Built from a phone.
 
 </div>
