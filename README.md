@@ -85,6 +85,7 @@ const 夕里 = {
   修行法:     "Termux only. No IDE. No mercy.",
   使命:       "Build. Learn. Experiment.",
   最終目標:   "Ship something that matters."
+              " This is an unhinged README FILE"
 }
 ```
 
@@ -243,12 +244,8 @@ Mobile-Only Dev   ████████████████  MYTHIC TIER
 TensoraMax Studio™
 │
 ├── 🤖  TXB™              — AI Assistant          [ACTIVE]
-├── 🕷️  Tensora Bot        — Autonomous Agent      [ACTIVE]
-├── 📡  Tensoragram        — Social Platform       [SHADOWS]
-├── ⚙️  Silicon Canvas     — Chip Designer         [RELEASED]
-├── 🔤  Tensora Lang       — Custom Language       [FORGING]
+├── 🕷️  Tensora Bot        — Autonomous Agent      [ACTIV
 ├── 🏗️  Studio Landing     — Brutalist HQ          [BUILDING]
-├── 🔮  Future AI Systems
 ├── 🛠️  Software Tools
 ├── ⚡  Automation Projects
 └── 🎨  Creative Technology
@@ -257,7 +254,7 @@ TensoraMax Studio™
 **道標 · Roadmap**
 
 ```
-一ノ段 · Phase 1 — Foundation          ████████████  COMPLETE ✓
+一ノ段 · Phase 1 — Foundation          ███████████  COMPLETE ✓
 二ノ段 · Phase 2 — Intelligence         ██████░░░░░░  IN PROGRESS
 三ノ段 · Phase 3 — Ecosystem            ░░░░░░░░░░░░  PLANNED
 四ノ段 · Phase 4 — Expansion            ░░░░░░░░░░░░  PLANNED
@@ -306,6 +303,6 @@ TensoraMax Studio™
 ───────────────────────────────────────
 ```
 
-*— 夕里 · Baki Sora · TensoraMax Studio™*
+ Baki Sora · TensoraMax Studio™*
 
 </div>
